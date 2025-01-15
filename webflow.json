@@ -1,0 +1,6 @@
+{
+  "name": "test-extension",
+  "publicDir": "public",
+  "size": "default",
+  "apiVersion": "2"
+}
